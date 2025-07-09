@@ -1,4 +1,4 @@
-#### 🔄 Aplicar no grupo **GLBP**
+#### 🔄 Aplicar no grupo **GLBP** (80.201 e 80.202)
 
 #### 📋 Criar `PREFIX-LIST` com a rede remota (.87 ou .88)
 ~~~bash
