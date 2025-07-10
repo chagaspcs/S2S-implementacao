@@ -5,10 +5,10 @@ O projeto S2S provê conectividade entre o site central (C4) e sites remotos a p
 ## 🏛️ Arquitetura de Rede
 
 ### 📍 Site Central
-![Diagrama Site Central](./diagrama_site_central.png)
+[Diagrama Site Central](./diagrama_site_central.png)
 
 ### 📍 Site Remoto
-![Diagrama Site Remoto](./diagrama_site_remoto.png)
+[Diagrama Site Remoto](./diagrama_site_remoto.png)
 
 ---
 
@@ -48,10 +48,10 @@ O projeto S2S provê conectividade entre o site central (C4) e sites remotos a p
 ## ⚙️ Etapas de Implementação
 
 ### 🏛️ No Site Central
-![Configuração Site Central](./site_central.md)
+[Configuração Site Central](./site_central.md)
 
 ### 🏛️ No Site Remoto
-![Configuração Site Remoto](./site_remoto.md)
+[Configuração Site Remoto](./site_remoto.md)
 
 ## 🧩 Observações Finais
 
