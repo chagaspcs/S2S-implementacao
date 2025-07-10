@@ -14,3 +14,8 @@ Este projeto visa garantir alta disponibilidade, balanceamento de carga e priori
 📡 Failover e Redundância entre diferentes tipos de enlaces
 
 🌍 GLBP / HSRP para gateways redundantes (quando aplicável)
+
+Siga para o link abaixo para maiores informações:
+
+### 🏛️ Arquitetura
+![Arquitetura do Sistema](./README.md)
