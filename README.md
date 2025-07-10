@@ -17,5 +17,5 @@ Este projeto visa garantir alta disponibilidade, balanceamento de carga e priori
 
 Siga para o link abaixo para maiores informações:
 
-### 🏛️ Arquitetura (./README.md)
+### 🏛️ ![Arquitetura](./README.md)
 ![Arquitetura do Sistema](./README.md)
